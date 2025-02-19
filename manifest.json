@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "name": "Şifre Bul",
+    "description": "Gönül Rahatlığıyla",
+    "version": "1.0",
+    "action": {
+      "default_popup": "popup.html"
+    },
+    "permissions": ["activeTab"]
+  }
+  
